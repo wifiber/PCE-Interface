@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name myComps)(type Legacy)(uri C:/Users/Andrew/Desktop/PCE-Interface/MyComps/myComps.lib)(options "")(descr ""))
+  (lib (name pcengineexpansion)(type Legacy)(uri C:/Users/Andrew/Desktop/PCE-Interface/MyComps/pcengineexpansion.lib)(options "")(descr ""))
+)
